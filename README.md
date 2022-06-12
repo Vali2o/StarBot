@@ -25,5 +25,6 @@
 * SetNick
 * Slowmode
 * Prefix
+* Tickets system
 
 * For all of the commands run s!help
