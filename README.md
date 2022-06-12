@@ -30,4 +30,4 @@
 * For all of the commands run s!help
 
 # Contributors:
- * [Vali_2o](https://github.com/Vali2o) -Code, Commands, File Structure and Message Events handler
+ * [Vali_2o](https://github.com/Vali2o) - Code, Commands, File Structure and Message Events handler
