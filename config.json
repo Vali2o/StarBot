@@ -1,0 +1,9 @@
+{
+  "name": "StarBot-V2",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "YOUR_BOT_TOKEN",
+  "DEFAULT_PREFIX": "s!",
+  "ownerId": "YOUR_DISCORD_ID",
+  "dbPass" : "MONGODB_PASSWORD"
+}
